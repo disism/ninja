@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 import { Link, useStaticQuery, graphql } from "gatsby"
 
- const IndexPage = ({ data}) => {
+ const IndexPage = ({ data }) => {
   
   const siteMetaData = useStaticQuery(graphql`
     query siteTitleQuery {

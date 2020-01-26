@@ -638,7 +638,7 @@ pre tt:after {
 }
 .body-main {
   position: relative;
-  top: 6rem;
+  top: 7rem;
 }
 .header-flex {
   display: flex;
@@ -646,7 +646,7 @@ pre tt:after {
   justify-content: space-between;
 }
 .header-link {
-  padding: .64rem;
+  padding: 1rem;
   border: 1px;
   border-style: solid;
   border-color: #D9CD90;
