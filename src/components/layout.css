@@ -656,6 +656,7 @@ pre tt:after {
   padding: .3rem;
   color: #405B55;
   background-color: #D7C4BB;
+  border-radius: .2rem;
 }
 /* BLOG LINK STYLE */
 .link-style {
